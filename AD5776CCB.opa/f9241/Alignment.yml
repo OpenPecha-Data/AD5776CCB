@@ -1,0 +1,19 @@
+segment_sources:
+  I18CFFB8D:
+    type: origin_type
+    relation: translation
+    language: en
+  I5DCC4156:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  f91104214a5844c59f860a77dab37086:
+    I18CFFB8D: 4f0ee5880f944710a87f1b634da7b249
+    I5DCC4156: e3b290c0e0414a86aef09ee65fb559cc
+  1cd2fa2c6f0a495d92eb6eeadbe95894:
+    I18CFFB8D: e77dcaeab5d54a27a2856929212eedf8
+    I5DCC4156: d144048b705647a787fa7c10b9397e53
+  9fc1fcf08b2345f9a212c9aa465df3a0:
+    I18CFFB8D: d8ad6576cc8b434597be3f4994c8ffa7
+    I5DCC4156: 70ec0e3dd9c948d79dfe70c96f824d24
